@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PTP Import</string>
+    <string name="copy_error_device_not_found_notification_message">Couldn\'t find device, try disconnecting/reconnecting</string>
+    <string name="copy_error_failed_connecting_to_device_notification_message">Failed connecting to device, try disconnecting/reconnecting</string>
+    <string name="copy_error_failed_connecting_via_ptp_notification_message">Failed connecting via PTP to device, try disconnecting/reconnecting</string>
+    <string name="notification_title_copy_complete">Transfer complete</string>
+    <string name="notification_title_failed_copying_files">Failed copying files</string>
+    <string name="notification_title_copying_files_progress">Copying files...</string>
+</resources>
